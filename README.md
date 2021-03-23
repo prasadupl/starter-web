@@ -12,7 +12,7 @@ As stated above , the main purpose is to provide simple examples for Git trainin
 This is a simple web project , deployment can be on any web server or even loca; file system.
 
 ## How To Contribute
-Please fork this repo and then issue pull requests PR for review. 
+Please fork this repo and then issue pull requests (PR) for review. 
 
 ### Copyright
 2021 Git
