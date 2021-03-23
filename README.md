@@ -15,4 +15,4 @@ This is a simple web project , deployment can be on any web server or even local
 Please fork this repo and then issue pull requests (PR) for review. 
 
 ### Copyright
-2021 Git
+2021 Git. All rights reserved.
